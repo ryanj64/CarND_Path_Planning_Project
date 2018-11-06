@@ -50,6 +50,7 @@ The speed control state machine is controlled by the lane change state machine (
 
 Overall, this approach worked well, but not perfect.  There are still a few cases in the simulator that don't happen often, so it is difficult to test these cases once a fix has been applied. There is additional item to add such as predicting other cars lane changes more effectively and to narrow the distance required for a lane change.
 
+## Udacity Original Readme Section
 
 ### Simulator.
 You can download the Term3 Simulator which contains the Path Planning Project from the [releases tab (https://github.com/udacity/self-driving-car-sim/releases/tag/T3_v1.2).
